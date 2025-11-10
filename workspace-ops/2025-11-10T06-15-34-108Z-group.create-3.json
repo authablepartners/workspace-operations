@@ -1,0 +1,11 @@
+{
+  "type": "group.create",
+  "requestedBy": "matt@authablepartners.com",
+  "requestedAt": "2025-11-10T06:15:33.354Z",
+  "reason": "New group",
+  "data": {
+    "email": "marketing@authablepartners.com",
+    "name": "Marketing",
+    "description": "Marketing Team"
+  }
+}
