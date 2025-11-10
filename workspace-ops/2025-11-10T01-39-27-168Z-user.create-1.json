@@ -1,0 +1,14 @@
+{
+  "type": "user.create",
+  "requestedBy": "matt@authablepartners.com",
+  "requestedAt": "2025-11-10T01:39:24.375Z",
+  "reason": "New Hire",
+  "data": {
+    "primaryEmail": "brooke@authablepartners.com",
+    "name": {
+      "givenName": "Brooke",
+      "familyName": "Daley"
+    },
+    "password": "testing this workflow123"
+  }
+}
